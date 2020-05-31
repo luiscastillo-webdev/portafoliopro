@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portafoliopro/static/css/main.2f889360.chunk.css",
-    "main.js": "/portafoliopro/static/js/main.692e254a.chunk.js",
-    "main.js.map": "/portafoliopro/static/js/main.692e254a.chunk.js.map",
+    "main.css": "/portafoliopro/static/css/main.06acd380.chunk.css",
+    "main.js": "/portafoliopro/static/js/main.97633d9f.chunk.js",
+    "main.js.map": "/portafoliopro/static/js/main.97633d9f.chunk.js.map",
     "runtime-main.js": "/portafoliopro/static/js/runtime-main.dcec7da3.js",
     "runtime-main.js.map": "/portafoliopro/static/js/runtime-main.dcec7da3.js.map",
     "static/css/2.def00553.chunk.css": "/portafoliopro/static/css/2.def00553.chunk.css",
-    "static/js/2.dc22923f.chunk.js": "/portafoliopro/static/js/2.dc22923f.chunk.js",
-    "static/js/2.dc22923f.chunk.js.map": "/portafoliopro/static/js/2.dc22923f.chunk.js.map",
+    "static/js/2.692e035e.chunk.js": "/portafoliopro/static/js/2.692e035e.chunk.js",
+    "static/js/2.692e035e.chunk.js.map": "/portafoliopro/static/js/2.692e035e.chunk.js.map",
     "index.html": "/portafoliopro/index.html",
-    "precache-manifest.098d1a8be28950f95123ab499a529fa0.js": "/portafoliopro/precache-manifest.098d1a8be28950f95123ab499a529fa0.js",
+    "precache-manifest.319209c71e1da47336e4595c94235c77.js": "/portafoliopro/precache-manifest.319209c71e1da47336e4595c94235c77.js",
     "service-worker.js": "/portafoliopro/service-worker.js",
     "static/css/2.def00553.chunk.css.map": "/portafoliopro/static/css/2.def00553.chunk.css.map",
-    "static/css/main.2f889360.chunk.css.map": "/portafoliopro/static/css/main.2f889360.chunk.css.map",
-    "static/js/2.dc22923f.chunk.js.LICENSE.txt": "/portafoliopro/static/js/2.dc22923f.chunk.js.LICENSE.txt",
+    "static/css/main.06acd380.chunk.css.map": "/portafoliopro/static/css/main.06acd380.chunk.css.map",
+    "static/js/2.692e035e.chunk.js.LICENSE.txt": "/portafoliopro/static/js/2.692e035e.chunk.js.LICENSE.txt",
     "static/media/bg_yo.jpg": "/portafoliopro/static/media/bg_yo.a9cccfec.jpg",
     "static/media/bg_yo2.jpg": "/portafoliopro/static/media/bg_yo2.15e1fcd3.jpg",
     "static/media/derilac_650x350.png": "/portafoliopro/static/media/derilac_650x350.9a7d2a54.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.dcec7da3.js",
     "static/css/2.def00553.chunk.css",
-    "static/js/2.dc22923f.chunk.js",
-    "static/css/main.2f889360.chunk.css",
-    "static/js/main.692e254a.chunk.js"
+    "static/js/2.692e035e.chunk.js",
+    "static/css/main.06acd380.chunk.css",
+    "static/js/main.97633d9f.chunk.js"
   ]
 }
