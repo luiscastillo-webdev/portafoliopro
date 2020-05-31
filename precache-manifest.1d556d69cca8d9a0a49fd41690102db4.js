@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b90d13dce1a031a198ccb6c9c61ad34",
+    "revision": "f66eb212a207744865674af1a90bd5ea",
     "url": "/portafoliopro/index.html"
   },
   {
-    "revision": "99f98b3344a9f2eb560d",
+    "revision": "608103db4c3a777e8bc3",
     "url": "/portafoliopro/static/css/2.def00553.chunk.css"
   },
   {
-    "revision": "7dd55b60494e47cc71c9",
+    "revision": "6c09ac9294c74472cc69",
     "url": "/portafoliopro/static/css/main.06acd380.chunk.css"
   },
   {
-    "revision": "99f98b3344a9f2eb560d",
-    "url": "/portafoliopro/static/js/2.692e035e.chunk.js"
+    "revision": "608103db4c3a777e8bc3",
+    "url": "/portafoliopro/static/js/2.314185f5.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/portafoliopro/static/js/2.692e035e.chunk.js.LICENSE.txt"
+    "url": "/portafoliopro/static/js/2.314185f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dd55b60494e47cc71c9",
-    "url": "/portafoliopro/static/js/main.97633d9f.chunk.js"
+    "revision": "6c09ac9294c74472cc69",
+    "url": "/portafoliopro/static/js/main.66cd206d.chunk.js"
   },
   {
     "revision": "ecba87a785c17d0a2ce4",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "38147f6a04a316668367d1ba78bdc41e",
     "url": "/portafoliopro/static/media/quanthyka_650x350.38147f6a.png"
+  },
+  {
+    "revision": "edb1162a7fda8da49748d9f9f7402f91",
+    "url": "/portafoliopro/static/media/sistemacovid19.edb1162a.png"
+  },
+  {
+    "revision": "48321ff824ca3353bca146cfd3d5d842",
+    "url": "/portafoliopro/static/media/web-dev.48321ff8.png"
   },
   {
     "revision": "cc4007e94f8698f8b761d5f53faa7d75",
