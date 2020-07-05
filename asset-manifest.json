@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portafoliopro/static/css/main.06acd380.chunk.css",
-    "main.js": "/portafoliopro/static/js/main.432b23c6.chunk.js",
-    "main.js.map": "/portafoliopro/static/js/main.432b23c6.chunk.js.map",
-    "runtime-main.js": "/portafoliopro/static/js/runtime-main.dcec7da3.js",
-    "runtime-main.js.map": "/portafoliopro/static/js/runtime-main.dcec7da3.js.map",
+    "main.js": "/portafoliopro/static/js/main.5588147a.chunk.js",
+    "main.js.map": "/portafoliopro/static/js/main.5588147a.chunk.js.map",
+    "runtime-main.js": "/portafoliopro/static/js/runtime-main.da8f9775.js",
+    "runtime-main.js.map": "/portafoliopro/static/js/runtime-main.da8f9775.js.map",
     "static/css/2.def00553.chunk.css": "/portafoliopro/static/css/2.def00553.chunk.css",
-    "static/js/2.314185f5.chunk.js": "/portafoliopro/static/js/2.314185f5.chunk.js",
-    "static/js/2.314185f5.chunk.js.map": "/portafoliopro/static/js/2.314185f5.chunk.js.map",
+    "static/js/2.49755c3f.chunk.js": "/portafoliopro/static/js/2.49755c3f.chunk.js",
+    "static/js/2.49755c3f.chunk.js.map": "/portafoliopro/static/js/2.49755c3f.chunk.js.map",
     "index.html": "/portafoliopro/index.html",
-    "precache-manifest.1133051e794ec9859709098d707993c9.js": "/portafoliopro/precache-manifest.1133051e794ec9859709098d707993c9.js",
+    "precache-manifest.b286a09370de94bb9cdae9f83d431531.js": "/portafoliopro/precache-manifest.b286a09370de94bb9cdae9f83d431531.js",
     "service-worker.js": "/portafoliopro/service-worker.js",
     "static/css/2.def00553.chunk.css.map": "/portafoliopro/static/css/2.def00553.chunk.css.map",
     "static/css/main.06acd380.chunk.css.map": "/portafoliopro/static/css/main.06acd380.chunk.css.map",
-    "static/js/2.314185f5.chunk.js.LICENSE.txt": "/portafoliopro/static/js/2.314185f5.chunk.js.LICENSE.txt",
+    "static/js/2.49755c3f.chunk.js.LICENSE.txt": "/portafoliopro/static/js/2.49755c3f.chunk.js.LICENSE.txt",
     "static/media/bg_yo.jpg": "/portafoliopro/static/media/bg_yo.a9cccfec.jpg",
     "static/media/bg_yo2.jpg": "/portafoliopro/static/media/bg_yo2.15e1fcd3.jpg",
     "static/media/derilac_650x350.png": "/portafoliopro/static/media/derilac_650x350.9a7d2a54.png",
@@ -26,10 +26,10 @@
     "static/media/yo.png": "/portafoliopro/static/media/yo.cc4007e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcec7da3.js",
+    "static/js/runtime-main.da8f9775.js",
     "static/css/2.def00553.chunk.css",
-    "static/js/2.314185f5.chunk.js",
+    "static/js/2.49755c3f.chunk.js",
     "static/css/main.06acd380.chunk.css",
-    "static/js/main.432b23c6.chunk.js"
+    "static/js/main.5588147a.chunk.js"
   ]
 }
